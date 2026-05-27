@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibrahim Divandar.
+- 👋 Hi, I’m @Ibrahim Diwandar.
 - 👀 I’m interested in ... coding.
-- 🌱 I’m currently learning ... Javascript.
+- 🌱 I’m currently learning ... Java.
 - 📫 How to reach me ... ayandvn@gmail.com.
