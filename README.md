@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibrahim Diwandar.
-- 👀 I’m interested in ... coding.
-- 🌱 I’m currently learning ... Java.
+- 👋 Hi, I’m @Ibrahim D.
+- 👀 Advanced Certified Mendix Dev.
+- 🌱 Java Sprint Boot, Python...
 - 📫 How to reach me ... ayandvn@gmail.com.
