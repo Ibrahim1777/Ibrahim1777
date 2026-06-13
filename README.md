@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ibrahim D.
-- 👀 Advanced Certified Mendix Dev.
+- 👀 Advanced Certified Mendix Lead Engineer
 - 🌱 Java Sprint Boot, Python...
 - 📫 How to reach me ... ayandvn@gmail.com.
